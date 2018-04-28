@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517822901 source:c:\users\gaurav jain\desktop\desktop\coding\labs\maths\exp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516615380 source:c:\users\gaurav jain\desktop\desktop\coding\labs\maths\exp-2_bisection\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
